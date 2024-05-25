@@ -21,7 +21,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Heart Hands Light Skin Tone" width="25" height="25" /> I’m open to contributor in **Open Source Project**<br>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" /> Ask me about **Frontend , C , C++ , Java and Python.** <br>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> How to reach me :    <a href="https://www.linkedin.com/in/lakshmi-pavananjali-pamidi-766760296/">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a><br>
-- 😄 My Linktree : <a href="https://linktr.ee/plpavananjali?utm_source=linktree_admin_share"><button style="background-color:green;height=25;width:10;"></a><br>
+- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Smiling%20Face.png" width="35"> My Linktree : <a href="https://linktr.ee/plpavananjali?utm_source=linktree_admin_share"><button style="background-color:green;height=25;width:10;"></a><br>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> I love to attend Tech events/Meetups and make new connections.<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
