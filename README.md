@@ -46,5 +46,9 @@
 
   <div align="center">
     <h2>🐍 My Contributions 🐍</h2>
-    <img src="https://github.com/Anjaliavv51/Anjaliavv51/blob/output/github-contribution-grid-snake.gif">
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anjaliavv51/Anjaliavv51/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anjaliavv51/Anjaliavv51/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anjaliavv51/Anjaliavv51/output/github-contribution-grid-snake.svg">
+</picture>
   </div>
