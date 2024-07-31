@@ -1,5 +1,10 @@
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 
+<h1 align="center"><img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="100px"></h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=black&center=true&vCenter=true&width=2000&height=200&lines=I+am+P+.+Lakshmi+Pavananjali;DEVOPS;OPEN+SOURCE;CODING;AIML)](https://git.io/typing-svg)
+
+<h3 align="center">A Passionate WebDeveloper and Coding Enthusias.t <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Rocket" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /></h3>
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -14,32 +19,12 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a>
 </div>
 
-
-<h1 align="center"><img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="100px"></h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=black&center=true&vCenter=true&width=2000&height=200&lines=I+am+P+.+Lakshmi+Pavananjali;DEVOPS;OPEN+SOURCE;CODING;AIML)](https://git.io/typing-svg)
-
-<h3 align="center">A Passionate WebDeveloper and Coding Enthusias.t <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Rocket" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /></h3>
-
-<table>
-<tr>
-  <td align="center">
-<a href="https://gssoc.girlscript.tech/"><img src="https://media.licdn.com/dms/image/C510BAQGSObrO0QPlMQ/company-logo_200_200/0/1630597186826/girlscriptsoc_logo?e=1722470400&v=beta&t=riGIryHFCH81TLbHmS3YZhyuz4ymzuYKgIXY0MpP14M" width=100px height=100px /><br /><sub><b>GSSoC 2024</b></sub></a>
- </td>
-</tr>
-</table>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaliavv51&label=Profile%20views&color=0e75b6&style=flat" alt="anjaliavv51" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjaliavv51" alt="anjaliavv51" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ppavanajali" target="blank"><img src="https://img.shields.io/twitter/follow/ppavanajali?logo=twitter&style=for-the-badge" alt="ppavanajali" /></a> </p>
-
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> I’m currently working on **GSSOC** as Contributor<a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a><br> 
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> I’m currently learning **Backend Web Development**<br>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Heart Hands Light Skin Tone" width="25" height="25" /> I’m open to contributor in **Open Source Project**<br>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" /> Ask me about **Frontend , C , C++ , Java and Python.** <br>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> How to reach me :    <a href="https://www.linkedin.com/in/lakshmi-pavananjali-pamidi-766760296/">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a><br>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> How to reach me :    <a href="https://www.linkedin.com/in/lakshmi-pavananjali-pamidi-766760296/">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  /></a>
+<a href="https://twitter.com/ppavanajali" target="blank"><img src="https://img.shields.io/twitter/follow/ppavanajali?logo=twitter&style=for-the-badge" alt="ppavanajali" /></a><br>
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Smiling%20Face.png" width="35"> My Linktree : <a href="https://linktr.ee/plpavananjali?utm_source=linktree_admin_share"><button style="background-color:green;height=25;width:10;"></a><br>
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> I love to attend Tech events/Meetups and make new connections.<br>
 <br>
