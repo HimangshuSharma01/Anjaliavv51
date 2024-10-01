@@ -65,7 +65,7 @@
 [![Anjaliavv51's GitHub | Languages Over Time](https://stats.quine.sh/Anjaliavv51/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Anjaliavv51)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![An image of @anjaliavv51's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anjaliavv51)](https://holopin.io/@anjaliavv51)
+[![An image of @plpanjali05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/plpanjali05)](https://holopin.io/@plpanjali05)
 
 
 
